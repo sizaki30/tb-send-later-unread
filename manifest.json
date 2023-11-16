@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "Send Later Unread",
+    "description": "If you choose to Send Later, the message will be unread.",
+    "version": "1.0",
+    "author": "Satoru Izaki",
+    "homepage_url": "https://github.com/sizaki30/tb-send-later-unread",
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "tb-send-later-unread@apar.jp",
+            "strict_min_version": "115.0"
+        }
+    },
+    "background": {
+        "page": "background.html"
+    },
+    "permissions": [
+        "compose",
+        "messagesRead"
+    ]
+}
