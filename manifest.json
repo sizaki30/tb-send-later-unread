@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Send Later Unread",
-    "description": "If you choose to Send Later, the message will be unread.",
+    "description": "This is an extension to make messages saved in the Outbox unread when you press Send Later in Thunderbird.",
     "version": "1.0",
     "author": "Satoru Izaki",
     "homepage_url": "https://github.com/sizaki30/tb-send-later-unread",
