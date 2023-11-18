@@ -1,8 +1,8 @@
 {
     "extensionName": {
-        "message": "後で送信を未読にする"
+        "message": "後で送信にしたメッセージを未読にする"
     },
     "extensionDescription": {
-        "message": "Thunderbirdで「後で送信」を押した時に、送信トレイに保存されるメッセージを未読にする機能拡張です。"
+        "message": "「後で送信」を選択した時に、送信トレイに保存されるメッセージを未読にする機能拡張です。"
     }
 }

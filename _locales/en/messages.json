@@ -1,8 +1,8 @@
 {
     "extensionName": {
-        "message": "Send Later Unread"
+        "message": "Sent Later message to Unread"
     },
     "extensionDescription": {
-        "message": "This is an extension to make messages saved in the Outbox unread when you press Send Later in Thunderbird."
+        "message": "This is an extension to make message saved in the Outbox unread when you select Send Later."
     }
 }
